@@ -1,2 +1,2 @@
-# iris_pred_teacher
-老師的預測花的品種
+# iris_pred
+預測花的品種
